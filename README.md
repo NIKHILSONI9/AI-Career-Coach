@@ -110,8 +110,8 @@ User → Frontend Dashboard → Backend APIs → Gemini AI
 - JWT Authentication Docs
 
 ##👨‍💻 Author
-##Nikhil Soni
-##💼 LinkedIn: https://www.linkedin.com/in/nikhil-soni221b251/
-##🖥 GitHub: https://github.com/NIKHILSONI9
-##🧠 LeetCode: https://leetcode.com/
-##🏆 HackerRank: https://hackerrank.com/
+- ##Nikhil Soni
+- ##💼 LinkedIn: https://www.linkedin.com/in/nikhil-soni221b251/
+- ##🖥 GitHub: https://github.com/NIKHILSONI9
+- ##🧠 LeetCode: https://leetcode.com/
+- ##🏆 HackerRank: https://hackerrank.com/
