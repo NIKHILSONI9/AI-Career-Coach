@@ -86,28 +86,28 @@ User → Frontend Dashboard → Backend APIs → Gemini AI
              Resume Analysis & Career Reports
 ```
 ##📈 Key Highlights
-✅ AI-powered personalized recommendations
-✅ ATS Resume Optimization
-✅ Interactive AI Mentor
-✅ Modern Glassmorphism UI
-✅ Responsive Design
-✅ Secure Authentication
-✅ Real-world Career Guidance Workflow
+- ✅ AI-powered personalized recommendations
+- ✅ ATS Resume Optimization
+- ✅ Interactive AI Mentor
+- ✅ Modern Glassmorphism UI
+- ✅ Responsive Design
+- ✅ Secure Authentication
+- ✅ Real-world Career Guidance Workflow
 
 ##🔮 Future Enhancements
-🎤 Voice-based AI Mentor
-🌐 Multi-language Support
-📡 Live Job Market API Integration
-🎯 AI Mock Interviews
-☁ Cloud Deployment & Analytics
-📈 LinkedIn Profile Optimization
+- 🎤 Voice-based AI Mentor
+- 🌐 Multi-language Support
+- 📡 Live Job Market API Integration
+- 🎯 AI Mock Interviews
+- ☁ Cloud Deployment & Analytics
+- 📈 LinkedIn Profile Optimization
 
 ##📚 References
-Google Gemini AI Documentation
-Next.js Official Docs
-MongoDB Documentation
-Tailwind CSS Documentation
-JWT Authentication Docs
+- Google Gemini AI Documentation
+- Next.js Official Docs
+- MongoDB Documentation
+- Tailwind CSS Documentation
+- JWT Authentication Docs
 
 ##👨‍💻 Author
 ##Nikhil Soni
