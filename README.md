@@ -85,7 +85,7 @@ User → Frontend Dashboard → Backend APIs → Gemini AI
                            ↓
              Resume Analysis & Career Reports
 ```
-##📈 Key Highlights
+## 📈 Key Highlights
 - ✅ AI-powered personalized recommendations
 - ✅ ATS Resume Optimization
 - ✅ Interactive AI Mentor
@@ -94,7 +94,7 @@ User → Frontend Dashboard → Backend APIs → Gemini AI
 - ✅ Secure Authentication
 - ✅ Real-world Career Guidance Workflow
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 - 🎤 Voice-based AI Mentor
 - 🌐 Multi-language Support
 - 📡 Live Job Market API Integration
@@ -102,16 +102,16 @@ User → Frontend Dashboard → Backend APIs → Gemini AI
 - ☁ Cloud Deployment & Analytics
 - 📈 LinkedIn Profile Optimization
 
-##📚 References
+## 📚 References
 - Google Gemini AI Documentation
 - Next.js Official Docs
 - MongoDB Documentation
 - Tailwind CSS Documentation
 - JWT Authentication Docs
 
-##👨‍💻 Author
-- ##Nikhil Soni
-- ##💼 LinkedIn: https://www.linkedin.com/in/nikhil-soni221b251/
-- ##🖥 GitHub: https://github.com/NIKHILSONI9
-- ##🧠 LeetCode: https://leetcode.com/
-- ##🏆 HackerRank: https://hackerrank.com/
+## 👨‍💻 Author
+- ## Nikhil Soni
+- ## 💼 LinkedIn: https://www.linkedin.com/in/nikhil-soni221b251/
+- ## 🖥 GitHub: https://github.com/NIKHILSONI9
+- ## 🧠 LeetCode: https://leetcode.com/
+- ## 🏆 HackerRank: https://hackerrank.com/
